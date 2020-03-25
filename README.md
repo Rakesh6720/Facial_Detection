@@ -1,5 +1,5 @@
 # Facial Detection
-A Python Convolutional Neural Network Trained for Facial Recognition
+A Python Convolutional Neural Network Trained for Facial Detection
 
 Convolutional Neural Networks (CNN) learn to recognize faces in images by training on a dataset which contains not only images of people but also a table of keypoints indexed by key-value pairs.  For example, the dataset on which this notebook trained indexed facial keypoints in a CSV catalogued by (x,y) positions.  Each image in the dataset included 68 coordinate pairs, which formed a keypoint mask of the face in an image.
 
